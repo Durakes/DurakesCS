@@ -1,0 +1,129 @@
+h1
+{
+    color: white;
+    background-color: darkcyan;
+    margin: 20px;
+    padding: 20px;
+    margin-left: 220px;
+    margin-right: 220px;
+}
+tr
+{
+    text-align: center;
+}
+#table
+{
+    text-align: center;
+    align-content: center;
+}
+table
+{
+    margin-left: 250px;
+    text-align: left;
+}
+
+.table
+{
+    text-align: left;
+    margin-left: 250px;
+}
+body
+{
+    background-color: white;
+}
+h3
+{
+    color: darkcyan;
+    margin-left: 250px;
+}
+#Miku
+{
+    width: 100px;
+    height: 100px;
+    float: right;
+}
+
+ul
+{
+    margin-left: 220px;
+    font-size: 20px;
+}
+
+#perfil
+{
+    width: 500px;
+    height: 300px;
+}
+#perfil-2
+{
+    width: 500px;
+    height: 300px;
+}
+
+.section
+{
+    padding-top: 50px;
+    padding-bottom: 35px;
+    border: 1px;
+    box-sizing: border-box;
+    border-style:hidden;
+    border-top-color: aqua;
+}
+
+#usil
+{
+    float: right;
+    width: 400px;
+    height: 200px;
+    margin-right: 220px;
+    padding: 25px;
+}
+
+#profile-text
+{
+    text-align: justify;
+    font-size: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.images
+{
+    padding-left: 10px;
+    padding-top: 10px;
+    margin-left: 200px;
+    float: left;
+    position: relative;
+    width: 10%;
+    height: auto;
+}
+
+.text-box
+{
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-right: 200px;
+    position: relative;
+    float: right;
+    width: 45%;
+    height: auto;
+}
+.images-2
+{
+    padding-left: 10px;
+    padding-top: 10px;
+    margin-right: 500px;
+    float: right;
+    position: relative;
+    width: 10%;
+    height: auto;
+}
+.text-boxex
+{
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-left: 200px;
+    position: relative;
+    float: left;
+    width: 45%;
+    height: auto;
+}
