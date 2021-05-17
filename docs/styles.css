@@ -7,15 +7,18 @@ h1
     margin-left: 220px;
     margin-right: 220px;
 }
-tr
+
+td
 {
-    text-align: center;
+    text-align: left;
 }
+
 #table
 {
     text-align: center;
     align-content: center;
 }
+
 table
 {
     margin-left: 250px;
@@ -27,15 +30,18 @@ table
     text-align: left;
     margin-left: 250px;
 }
+
 body
 {
     background-color: white;
 }
+
 h3
 {
     color: darkcyan;
     margin-left: 250px;
 }
+
 #Miku
 {
     width: 100px;
@@ -45,41 +51,27 @@ h3
 
 ul
 {
-    margin-left: 220px;
-    font-size: 20px;
+    padding-left: 250px;
 }
 
-#perfil
+.perfil
 {
-    width: fit-content;
-    height: fit-content;
+    max-width: 100%;
 }
-#perfil-2
+
+.perfil-2
 {
-    width: 500px;
-    height: 300px;
+    max-width: 100%;
 }
 
 .section
 {
-    padding-top: 50px;
-    padding-bottom: 35px;
-    border: 1px;
-    box-sizing: border-box;
-    border-style:hidden;
-    border-top-color: aqua;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    box-sizing: content-box;
 }
 
-#usil
-{
-    float: right;
-    width: 400px;
-    height: 200px;
-    margin-right: 220px;
-    padding: 25px;
-}
-
-#profile-text
+.profile-text
 {
     text-align: justify;
     font-size: 30px;
@@ -88,12 +80,12 @@ ul
 
 .images
 {
-    padding-left: 10px;
+    padding-left: 200px;
     padding-top: 10px;
-    margin-left: 200px;
+    margin-left: 10px;
     float: left;
     position: relative;
-    width: 10%;
+    width: 30%;
     height: auto;
 }
 
@@ -107,20 +99,22 @@ ul
     width: 40%;
     height: auto;
 }
+
 .images-2
 {
     padding-left: 10px;
     padding-top: 10px;
-    margin-right: 500px;
+    margin-right: 200px;
     float: right;
     position: relative;
-    width: 10%;
+    width: 30%;
     height: auto;
 }
+
 .text-boxex
 {
     padding-top: 10px;
-    padding-left: 10px;
+    padding-right: 10px;
     margin-left: 200px;
     position: relative;
     float: left;
